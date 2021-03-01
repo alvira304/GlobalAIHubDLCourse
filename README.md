@@ -1,7 +1,8 @@
 # GlobalAIHubDLCourse
 
+<p align="center">
 <img src="Img/logo.png">
-
+</p>
 
 Course Date: 01/03/2021-05/03/2021 
 
